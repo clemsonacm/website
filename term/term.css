@@ -1,0 +1,17 @@
+@keyframes blink {
+	0%   { opacity: 0.0 }
+	10%  { opacity: 1.0 }
+	50%  { opacity: 1.0 }
+	100% { opacity: 0.0 }
+}
+
+#cursor {
+	width: 10.5px;
+	height: 18px;
+
+	animation: blink 1s linear infinite;
+}
+
+#cursor::after {
+	content: "█";
+}

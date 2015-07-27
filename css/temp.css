@@ -1,0 +1,42 @@
+nav * {
+	padding: 0px;
+	margin: 0px;
+}
+
+nav ul {
+	display: inline;
+
+	list-style-type: none;
+}
+
+nav ul li {
+	padding-left: 10.5px;
+}
+
+header {
+	display: table;
+}
+
+header nav {
+	display: table-cell;
+}
+
+header::after {
+	display: table-row;
+
+	content: "U:%@ *dir* All L1 (Dir)";
+}
+
+
+header pre {
+	display: table-cell;
+
+	padding-left: 73.5px;
+	padding-bottom: 18px;
+}
+
+footer {
+	margin-top: 18px;
+
+	background-color: #111;
+}

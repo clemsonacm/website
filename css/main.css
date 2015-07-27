@@ -1,0 +1,51 @@
+body {
+	color: #0c0;
+	background-color: #111;
+
+	font-family: Terminus, Monospace;
+	font-size: 18px;
+}
+
+a {
+	color: #12f;
+
+	text-decoration: none;
+}
+
+button {
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-size: 18px;
+
+	padding: 0px;
+	margin: 0px;
+}
+
+h1, h2, h3 {
+	font-weight: bold;
+}
+
+h1 {
+	color: #c00;
+}
+
+h2 {
+	color: #0c0;
+}
+
+h3 {
+	color: #12f;
+}
+
+h4 {
+	color: #0cf;
+}
+
+h5 {
+	color: #c0f;
+}
+
+h6 {
+	color: #cc0;
+}
