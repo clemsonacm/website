@@ -24,7 +24,7 @@ header nav {
 header::after {
 	display: table-row;
 
-	content: "U:%@ *dir* All L1 (Dir)";
+	/*content: "U:%@ *dir* All L1 (Dir)";*/
 }
 
 
