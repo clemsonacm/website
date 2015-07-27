@@ -5,7 +5,7 @@ Right now this is only a mockup and a partial implementation. The idea is a webs
 
 I still haven't picked a colour scheme so right now it uses fairly standard terminal colours.
 
-I'm probably going to look into [Hugo](https://github.com/spf13/hugo) because Go is cool. Otherwise, I'll just put this in a Jekyll workspace I have ready.
+I'm probably going to look into [Hugo](https://github.com/spf13/hugo) since it seems to be the newfangled static site generator. Otherwise, I'll just put this in a Jekyll workspace I have ready.
 
 
 Design Goals
