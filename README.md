@@ -7,6 +7,7 @@ I still haven't picked a colour scheme so right now it uses fairly standard term
 
 I'm probably going to look into [Hugo](https://github.com/spf13/hugo) because Go is cool. Otherwise, I'll just put this in a Jekyll workspace I have ready.
 
+
 Design Goals
 ------------
 
@@ -16,6 +17,7 @@ Design Goals
 - have a working command line with a joke or two (like http://uni.xkcd.com/)
 - easy to navigate (potential pages are easy to find and go to for "point-and-click" users)
 - have content be easily readable (so no tiny terminal font like many of us might be accustomed to)
+
 
 Inquiries
 ---------
