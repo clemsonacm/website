@@ -3,7 +3,7 @@ ACM Website
 
 Right now this is only a mockup and a partial implementation. The idea is a website that looks (and interacts if you have JavaScript!) like an emacs session.
 
-I still haven't picked a colour scheme so right now it uses fairly standard terminal colours.
+I still haven't picked a colour scheme so right now it uses fairly standard terminal colours. I'm looking at one of the base16 schemes, jellybeans, or solarized, but am open to suggestions.
 
 I'm probably going to look into [Hugo](https://github.com/spf13/hugo) since it seems to be the newfangled static site generator. Otherwise, I'll just put this in a Jekyll workspace I have ready.
 
