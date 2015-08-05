@@ -10,7 +10,7 @@ Past Seminars
 
 - Linux is Scary [git][linux-git] [slides][linux-slides]
 - Git Thee to a Version Control Seminar [git][git-git] [slides][git-slides] [video][git-video]
-- N Tools in O(N) minutes [git][tools-git] [slides][tools-slides] 
+- N Tools in O(N) minutes [git][tools-git] [slides][tools-slides]
 - Intermediate Vim [git][vim-git] [slides][vim-slides] [video][vim-video]
 
 Suggestion for a Future Seminar

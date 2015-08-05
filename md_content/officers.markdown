@@ -3,7 +3,7 @@ Officers
 
 We have a fine core of officers here at Clemson ACM.
 We organize things and keep the lights on.
-You can reach us at <acm@cs.clemson.edu>.  
+You can reach us at <acm@cs.clemson.edu>.
 
 President
 --------------------
