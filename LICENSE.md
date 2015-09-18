@@ -1,4 +1,4 @@
-# Jellybeans Color Scheme (css/term.css)
+# Jellybeans Color Scheme (themes/emacs/static/css/term.css)
 
 Copyright (c) 2009-2012 NanoTech
 
