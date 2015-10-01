@@ -8,7 +8,7 @@ title = "Seminars"
 Seminars
 ========
 
-We put on a series of educational seminars throughout the year. The seminars are about an hour long, and usually take place in the McAdams labs. Checkout our [calendar][] for an up to date listing of when and where the next seminar is.
+We put on a series of educational seminars throughout the year. The seminars are about an hour long and usually take place in the McAdams labs. Checkout our [calendar][] for an up to date listing of when and where the next seminar will be.
 
 Past Seminars
 -------------
@@ -21,7 +21,7 @@ Past Seminars
 Suggestion for a Future Seminar
 -------------------------------
 
-We are always taking suggestions, send us an email at <acm@cs.clemson.edu>.
+We are always taking suggestions, so send us an email at <acm@cs.clemson.edu>.
 
 [calendar]: https://www.google.com/calendar/embed?src=aeh6j0eubfdc3atqq44g7iigu8%40group.calendar.google.com&ctz=America/New_York
 

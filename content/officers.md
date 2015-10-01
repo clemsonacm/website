@@ -8,9 +8,7 @@ title = "Officers"
 Officers
 ========
 
-We have a fine core of officers here at Clemson ACM.
-We organize things and keep the lights on.
-You can reach us at <acm@cs.clemson.edu>.
+We have a fine core of officers here at Clemson ACM. We organize things and keep the lights on. You can reach us at <acm@cs.clemson.edu>.
 
 President
 ---------
@@ -24,7 +22,7 @@ Vice President
 
 ### Robert Underwood
 
-Our nefarious vice-president. He is a 3rd year Clemson student. He works primarily with seminars and the Clemson ACM Hackpack.
+Our nefarious vice-president. He is a 3rd year Clemson student. He works primarily with the seminars and the Clemson ACM Hackpack.
 
 
 Webmaster
