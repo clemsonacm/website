@@ -1,14 +1,14 @@
 /*
  * Color scheme: Jellybeans adapted from Jellybeans.vim
  *
- * background_color = #151515
- * text_color = #E8E8D3
- * highlight_red = #902020
- * highlight_yellow = #FFB964
- * highlight_green = #65C254
- * highlight_blue = #447799
- * highlight_violet = #C6B6FE
- * highlight_darkblue = #2B5B77
+ * <body>      background_color = #151515
+ * <body>,<h2> text_color = #E8E8D3
+ * <h4>        highlight_red = #902020
+ * <h1>        highlight_yellow = #FFB964
+ * <h5>        highlight_green = #65C254
+ * <a>         highlight_blue = #447799
+ * <h3>        highlight_violet = #C6B6FE
+ * <h6>        highlight_darkblue = #2B5B77
  */
 
 body {
@@ -20,7 +20,7 @@ body {
 }
 
 a {
-	color: #447799; //highlight_blue
+	color: #447799;
 
 	text-decoration: none;
 }
@@ -40,25 +40,25 @@ h1, h2, h3 {
 }
 
 h1 {
-	color: #FFB964; // highlight_yellow
+	color: #FFB964;
 }
 
 h2 {
-	color: #E8E8D3; // text_color
+	color: #E8E8D3;
 }
 
 h3 {
-	color: #C6B6FE; //highlight_violet
+	color: #C6B6FE;
 }
 
 h4 {
-	color: #902020; //highlight_red
+	color: #902020;
 }
 
 h5 {
-	color: #65C254; //highlight_green
+	color: #65C254;
 }
 
 h6 {
-	color: #2B5B77; //highlight_darkblue
+	color: #2B5B77;
 }
