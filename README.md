@@ -4,6 +4,28 @@ ACM Website
 Right now this is only a mockup and a partial implementation. The idea is a website that looks (and interacts if you have JavaScript!) like an emacs session.
 
 
+Building
+--------
+
+The website uses the [Hugo](http://gohugo.io/) static site generator. If you have [Go](http://golang.org/) installed, installation is as easy as 'go get github.com/spf13/hugo'.
+
+### Static Files
+
+To generate static files, run the following command and check the 'public' folder for generated files.
+
+```sh
+$ hugo
+```
+
+### Development Server
+
+To run a server that watches for file changes and automatically updates when source files are changed, run the following command and navigate to [http://localhost:1313/acm/]() in your web browser.
+
+```sh
+$ hugo server -w
+```
+
+
 Design Goals
 ------------
 
