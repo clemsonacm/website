@@ -13,15 +13,15 @@ We put on a series of educational seminars throughout the year. The seminars are
 Current Seminars
 ----------------
 
-- Linux is Scary [slides][linux-slides]
+- Linux is Scary [slides][linux-slides] [video][linux-video]
 - Git Well Soon! [slides][git-slides] [video][git-video]
-- Think Different [slides][projects-slides]
+- Think Different [slides][projects-slides] [video][projects-video]
+- Exploitable [slides][exploitable-slides] [video][exploitable-video]
 
 Previous Seminars
 -----------------
 
 - Dockerize All the Things! [slides][docker-slides]
-- Exploitable [slides][exploitable-slides]
 - Thou Shall Not Pass! [slides][firewall-slides]
 - N Unix Tools in O(N) Minutes [slides][tools-slides]
 - Intermediate Vim [slides][vim-slides] [video][vim-video]
@@ -34,11 +34,14 @@ We are always taking suggestions, so send us an email at <acm@cs.clemson.edu>.
 [calendar]: https://www.google.com/calendar/embed?src=aeh6j0eubfdc3atqq44g7iigu8%40group.calendar.google.com&ctz=America/New_York
 
 [linux-slides]: http://present.protractor.ninja/?linux
+[linux-video]: https://youtu.be/WYxmNHqFUNg
 [git-slides]: http://present.protractor.ninja/?git
-[git-video]: https://youtu.be/FRVzpoyqsPM
+[git-video]: https://youtu.be/w7Wg-7zL0K0
 [projects-slides]: http://present.protractor.ninja/?projects
+[projects-video]: https://youtu.be/E9MkYpOEH60
 [docker-slides]: http://present.protractor.ninja/?docker
 [exploitable-slides]: http://present.protractor.ninja/?exploitable
+[exploitable-video]: https://youtu.be/qksiuYYmWXs
 [firewall-slides]: http://present.protractor.ninja/?firewall
 [tools-slides]: http://present.protractor.ninja/?tools
 [vim-slides]: http://present.protractor.ninja/?vim
