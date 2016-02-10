@@ -37,16 +37,16 @@ We are always taking suggestions, so send us an email at <acm@cs.clemson.edu>.
 
 [calendar]: https://www.google.com/calendar/embed?src=aeh6j0eubfdc3atqq44g7iigu8%40group.calendar.google.com&ctz=America/New_York
 
-[linux-slides]: http://present.protractor.ninja/?linux
+[linux-slides]: http://www.cs.clemson.edu/acm/presentations/?linux
 [linux-video]: https://youtu.be/WYxmNHqFUNg
-[git-slides]: http://present.protractor.ninja/?git
+[git-slides]: http://www.cs.clemson.edu/acm/presentations/?git
 [git-video]: https://youtu.be/w7Wg-7zL0K0
-[projects-slides]: http://present.protractor.ninja/?projects
+[projects-slides]: http://www.cs.clemson.edu/acm/presentations/?projects
 [projects-video]: https://youtu.be/E9MkYpOEH60
-[docker-slides]: http://present.protractor.ninja/?docker
-[exploitable-slides]: http://present.protractor.ninja/?exploitable
+[docker-slides]: http://www.cs.clemson.edu/acm/presentations/?docker
+[exploitable-slides]: http://www.cs.clemson.edu/acm/presentations/?exploitable
 [exploitable-video]: https://youtu.be/qksiuYYmWXs
-[firewall-slides]: http://present.protractor.ninja/?firewall
-[tools-slides]: http://present.protractor.ninja/?tools
-[vim-slides]: http://present.protractor.ninja/?vim
+[firewall-slides]: http://www.cs.clemson.edu/acm/presentations/?firewall
+[tools-slides]: http://www.cs.clemson.edu/acm/presentations/?tools
+[vim-slides]: http://www.cs.clemson.edu/acm/presentations/?vim
 [vim-video]: https://youtu.be/v0W7JkzQAzA
