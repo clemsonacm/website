@@ -13,18 +13,22 @@ We put on a series of educational seminars throughout the year. The seminars are
 Current Seminars
 ----------------
 
-- Linux is Scary [slides][linux-slides] [video][linux-video]
-- Git Well Soon! [slides][git-slides] [video][git-video]
-- Think Different [slides][projects-slides] [video][projects-video]
-- Exploitable [slides][exploitable-slides] [video][exploitable-video]
+- Linux is Scary
+- Think Different
+- Thou Shall Not Pass!
+- Exploitable II: Application Design
 
 Previous Seminars
 -----------------
 
 - Dockerize All the Things! [slides][docker-slides]
-- Thou Shall Not Pass! [slides][firewall-slides]
-- N Unix Tools in O(N) Minutes [slides][tools-slides]
+- Exploitable: Ethical Hacking [slides][exploitable-slides] [video][exploitable-video]
+- Git Well Soon! [slides][git-slides] [video][git-video]
 - Intermediate Vim [slides][vim-slides] [video][vim-video]
+- Linux is Scary [slides][linux-slides] [video][linux-video]
+- N Unix Tools in O(N) Minutes [slides][tools-slides]
+- Think Different [slides][projects-slides] [video][projects-video]
+- Thou Shall Not Pass! [slides][firewall-slides]
 
 Suggestion for a Future Seminar
 -------------------------------
