@@ -10,19 +10,21 @@ Officers
 
 We have a fine core of officers here at Clemson ACM. We organize things and keep the lights on. You can reach us at <acm@cs.clemson.edu>.
 
+
 President
 ---------
 
-### Austin Anderson
+### Marshall Clyburn
 
-Our fearless leader. He is a 4th year Clemson student. He leads most of the discussions and organizes most of the events.
+Our collected leader. He is a third-year computer science student. His primary interests in computing include operating systems, system administration, and scripting (all kinds). A bit of an audiophile. Prefers *BSD over Linux. Uses Emacs.
+
 
 Vice President
 --------------
 
 ### Robert Underwood
 
-Our nefarious vice-president. He is a 3rd year Clemson student. He works primarily with the seminars and the Clemson ACM Hackpack.
+Our nefarious vice-president. He works primarily with the seminars and the Clemson ACM Hackpack.
 
 
 Webmaster
@@ -30,14 +32,23 @@ Webmaster
 
 ### Foster McLane
 
-Our hardworking webmaster. He is a 2nd year Clemson student. He keeps all this stuff up and running and does most of the work on this site.
+Our hardworking webmaster. He keeps all this stuff up and running and does most of the work on this site.
+
 
 Treasurer
 ---------
 
-### Kirsten Erich
+### Alexander Sferrella
 
-Our ever helpful treasurer. She is a 4th year Clemson student. She processes dues and keeps us on budget.
+Alexander is an Ohio-born, South Carolina raised, CS Major, AFROTC Clemson Tiger. He fills his time with Detachment 770, Arnold Air Society, Clemson ACM and the Marksmanship club. Alexander hopes to become a Cyber Operations Commander in the United States Air Force upon graduating in 2017.
+
+Secretary
+---------
+
+### Cecilia Prentice
+
+Cecilia Prentice is a junior Computer Science major with an Engineering minor. She is also involved with the Calhoun Honors College, the Dixon Fellows Program, and German Club.
+
 
 Advisor
 -------
