@@ -13,9 +13,9 @@ We put on a series of educational seminars throughout the year. The seminars are
 Current Seminars
 ----------------
 
-- Linux is Scary
-- Think Different
-- Thou Shall Not Pass!
+- Linux is Scary [slides][linux-slides]
+- Think Different [slides][project-slides]
+- Thou Shall Not Pass! [slides][firewall-slides]
 - Exploitable II: Application Design
 
 Previous Seminars
