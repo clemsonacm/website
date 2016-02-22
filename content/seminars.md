@@ -14,7 +14,7 @@ Current Seminars
 ----------------
 
 - Linux is Scary [slides][linux-slides]
-- Think Different [slides][project-slides]
+- Think Different [slides][projects-slides]
 - Thou Shall Not Pass! [slides][firewall-slides]
 - Exploitable II: Application Design
 
