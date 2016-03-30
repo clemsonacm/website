@@ -16,7 +16,7 @@ Current Seminars
 - Linux is Scary [slides][linux-slides]
 - Think Different [slides][projects-slides]
 - Thou Shall Not Pass! [slides][firewall-slides]
-- Exploitable II: Application Design
+- Exploitable II: Application Design [slides][exploitable_2]
 
 Previous Seminars
 -----------------
@@ -44,6 +44,7 @@ We are always taking suggestions, so send us an email at <acm@cs.clemson.edu>.
 [projects-slides]: http://www.cs.clemson.edu/acm/presentations/?projects
 [projects-video]: https://youtu.be/E9MkYpOEH60
 [docker-slides]: http://www.cs.clemson.edu/acm/presentations/?docker
+[exploitable_2-slides]: http://www.cs.clemson.edu/acm/presentations/?exploitable_2
 [exploitable-slides]: http://www.cs.clemson.edu/acm/presentations/?exploitable
 [exploitable-video]: https://youtu.be/qksiuYYmWXs
 [firewall-slides]: http://www.cs.clemson.edu/acm/presentations/?firewall
