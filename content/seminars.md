@@ -13,10 +13,11 @@ We put on a series of educational seminars throughout the year. The seminars are
 Current Seminars
 ----------------
 
-- Linux is Scary [slides][linux-slides]
+- Linux is Scary [slides][linux-slides] [video][linux-video]
 - Think Different [slides][projects-slides]
 - Thou Shall Not Pass! [slides][firewall-slides]
-- Exploitable II: Application Design [slides][exploitable_2-slides]
+- Exploitable II: Application Design [slides][exploitable_2-slides] [video][exploitable_2-video] 
+- Python: A Parser Tongue Primer [slides][python-slides] [video][python-video]
 
 Previous Seminars
 -----------------
@@ -38,13 +39,16 @@ We are always taking suggestions, so send us an email at <acm@cs.clemson.edu>.
 [calendar]: https://www.google.com/calendar/embed?src=aeh6j0eubfdc3atqq44g7iigu8%40group.calendar.google.com&ctz=America/New_York
 
 [linux-slides]: http://www.cs.clemson.edu/acm/presentations/?linux
-[linux-video]: https://youtu.be/WYxmNHqFUNg
+[linux-video]: https://www.youtube.com/watch?v=qI8eAlteW9E
 [git-slides]: http://www.cs.clemson.edu/acm/presentations/?git
 [git-video]: https://youtu.be/w7Wg-7zL0K0
 [projects-slides]: http://www.cs.clemson.edu/acm/presentations/?projects
 [projects-video]: https://youtu.be/E9MkYpOEH60
+[python-slides]: http://www.cs.clemson.edu/acm/presentations/?python
+[python-video]: https://www.youtube.com/watch?v=yzILULoVQzg
 [docker-slides]: http://www.cs.clemson.edu/acm/presentations/?docker
 [exploitable_2-slides]: http://www.cs.clemson.edu/acm/presentations/?exploitable_2
+[exploitable_2-video]: https://www.youtube.com/watch?v=PlID3ZxLTjo
 [exploitable-slides]: http://www.cs.clemson.edu/acm/presentations/?exploitable
 [exploitable-video]: https://youtu.be/qksiuYYmWXs
 [firewall-slides]: http://www.cs.clemson.edu/acm/presentations/?firewall
