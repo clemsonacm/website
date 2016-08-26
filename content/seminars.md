@@ -8,26 +8,23 @@ title = "Seminars"
 Seminars
 ========
 
-We put on a series of educational seminars throughout the year. The seminars are about an hour long and usually take place in the McAdams labs. Checkout our [calendar][] for an up to date listing of when and where the next seminar will be.
+This semester, we have are sponsoring a new class CPSC 281 which will be the new home for the Clemson ACM seminars.  The topics list is still evolving so check back for updates. Checkout our [calendar][] for an up to date listing of when and where the next seminar will be.
 
 Current Seminars
 ----------------
 
-- Linux is Scary [slides][linux-slides] [video][linux-video]
-- Think Different [slides][projects-slides]
-- Thou Shall Not Pass! [slides][firewall-slides]
-- Exploitable II: Application Design [slides][exploitable_2-slides] [video][exploitable_2-video] 
-- Python: A Parser Tongue Primer [slides][python-slides] [video][python-video]
 
 Previous Seminars
 -----------------
 
 - Dockerize All the Things! [slides][docker-slides]
 - Exploitable: Ethical Hacking [slides][exploitable-slides] [video][exploitable-video]
+- Exploitable II: Application Design [slides][exploitable_2-slides] [video][exploitable_2-video] 
 - Git Well Soon! [slides][git-slides] [video][git-video]
 - Intermediate Vim [slides][vim-slides] [video][vim-video]
 - Linux is Scary [slides][linux-slides] [video][linux-video]
 - N Unix Tools in O(N) Minutes [slides][tools-slides]
+- Python: A Parser Tongue Primer [slides][python-slides] [video][python-video]
 - Think Different [slides][projects-slides] [video][projects-video]
 - Thou Shall Not Pass! [slides][firewall-slides]
 
