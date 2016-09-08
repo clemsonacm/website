@@ -13,6 +13,7 @@ This semester, we have are sponsoring a new class CPSC 281 which will be the new
 Current Seminars
 ----------------
 
+- Exploitable 3 [slides][exploitable_3-slides]
 
 Previous Seminars
 -----------------
@@ -44,6 +45,7 @@ We are always taking suggestions, so send us an email at <acm@cs.clemson.edu>.
 [python-slides]: http://www.cs.clemson.edu/acm/presentations/?python
 [python-video]: https://www.youtube.com/watch?v=yzILULoVQzg
 [docker-slides]: http://www.cs.clemson.edu/acm/presentations/?docker
+[exploitable_3-slides]: http://www.cs.clemson.edu/acm/presentations/?exploitable_3
 [exploitable_2-slides]: http://www.cs.clemson.edu/acm/presentations/?exploitable_2
 [exploitable_2-video]: https://www.youtube.com/watch?v=PlID3ZxLTjo
 [exploitable-slides]: http://www.cs.clemson.edu/acm/presentations/?exploitable
