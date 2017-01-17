@@ -14,40 +14,41 @@ We have a fine core of officers here at Clemson ACM. We organize things and keep
 President
 ---------
 
-### Marshall Clyburn
+### Maxwell Harley
 
-Our collected leader. He is a third-year computer science student. His primary interests in computing include operating systems, system administration, and scripting (all kinds). A bit of an audiophile. Prefers *BSD over Linux. Uses Emacs.
+First year computer science student who enjoys building (and breaking) software. Television and ping pong enthusiast.
 
 
 Vice President
 --------------
 
-### Robert Underwood
+### Derek Parrill
 
-Our nefarious vice-president. He works primarily with the seminars and the Clemson ACM Hackpack.
+Derek is an Electrical Engineering major and AFROTC Cadet who enjoys logistics and planning.
 
 
 Webmaster
 ---------
 
-### Foster McLane
+### Sloan Nietert
 
-Our hardworking webmaster. He keeps all this stuff up and running and does most of the work on this site.
+A puzzle enthusiast and avid programmer, Sloan is a sophomore studying math and computer science. He enjoys hiking and competing with the Clemson programming team. 
 
 
 Treasurer
 ---------
 
-### Alexander Sferrella
+### Andre Robinson
 
-Alexander is an Ohio-born, South Carolina raised, CS Major, AFROTC Clemson Tiger. He fills his time with Detachment 770, Arnold Air Society, Clemson ACM and the Marksmanship club. Alexander hopes to become a Cyber Operations Commander in the United States Air Force upon graduating in 2017.
+Andre is a freshman CS major who, like his predecessor, is an AFROTC cadet hoping to become a cyber operations officer after graduation. His heaviest interests in computer science are network security and artificial intelligence.
+
 
 Secretary
 ---------
 
-### Cecilia Prentice
+### Samuel Bowen
 
-Cecilia Prentice is a junior Computer Science major with an Engineering minor. She is also involved with the Calhoun Honors College, the Dixon Fellows Program, and German Club.
+Sam is a senior Computer Science major with a minor in Business Administration. He is optimistic about the field of Virtual/Augmented Reality and intends to start his own company in that field.
 
 
 Advisor
