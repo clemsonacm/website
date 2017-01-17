@@ -4,9 +4,9 @@ licenselink = "https://github.com/clemsonacm/website/blob/master/LICENSE.md"
 description = "a terminal emacs inspired theme"
 homepage = "http://www.cs.clemson.edu/acm/"
 tags = ["terminal", "emacs"]
-features = ["", ""]
+features = ["terminal", "blog"]
 min_version = 0.14
 
 [author]
   name = "Foster McLane"
-  homepage = "http://fkmclane.net/"
+  homepage = "https://fooster.io/"
