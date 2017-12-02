@@ -16,7 +16,7 @@ President
 
 ### Maxwell Harley
 
-First year computer science student who enjoys building (and breaking) software. Television and ping pong enthusiast.
+Second year computer science student who enjoys building (and breaking) software. Television and ping pong enthusiast.
 
 
 Vice President
@@ -32,23 +32,23 @@ Webmaster
 
 ### Sloan Nietert
 
-A puzzle enthusiast and avid programmer, Sloan is a sophomore studying math and computer science. He enjoys hiking and competing with the Clemson programming team. 
+A puzzle enthusiast and avid programmer, Sloan is a junior studying math and computer science. He enjoys climbing and competing with the Clemson programming team. 
 
 
 Treasurer
 ---------
 
-### Andre Robinson
+### André Robinson
 
-Andre is a freshman CS major who, like his predecessor, is an AFROTC cadet hoping to become a cyber operations officer after graduation. His heaviest interests in computer science are network security and artificial intelligence.
+André is a sophomore CS major who, like his predecessor, is an AFROTC cadet hoping to become a cyber operations officer after graduation. His heaviest interests in computer science are network security and artificial intelligence.
 
 
 Secretary
 ---------
 
-### Samuel Bowen
+### Garrett Springer
 
-Sam is a senior Computer Science major with a minor in Business Administration. He is optimistic about the field of Virtual/Augmented Reality and intends to start his own company in that field.
+Garrett is a double major in Biology and CS who hopes to work in bioinformatics. His hobbies are playing chess and hiking with his dog.
 
 
 Advisor
