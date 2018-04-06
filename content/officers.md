@@ -14,9 +14,9 @@ We have a fine core of officers here at Clemson ACM. We organize things and keep
 President
 ---------
 
-### Maxwell Harley
+### André Robinson
 
-Second year computer science student who enjoys building (and breaking) software. Television and ping pong enthusiast.
+André is a sophomore CS major who, like his predecessor, is an AFROTC cadet hoping to become a cyber operations officer after graduation. His heaviest interests in computer science are network security and artificial intelligence.
 
 
 Vice President
@@ -30,15 +30,15 @@ Derek is an Electrical Engineering major and AFROTC Cadet who enjoys logistics a
 Webmaster
 ---------
 
-### Sloan Nietert
+### Jack Carroll
 
-A puzzle enthusiast and avid programmer, Sloan is a junior studying math and computer science. He enjoys climbing and competing with the Clemson programming team. 
+A freshman computer science major who enjoys computers and software. Enjoys frisbee and hiking. 
 
 
 Treasurer
 ---------
 
-### André Robinson
+### Parth
 
 André is a sophomore CS major who, like his predecessor, is an AFROTC cadet hoping to become a cyber operations officer after graduation. His heaviest interests in computer science are network security and artificial intelligence.
 
