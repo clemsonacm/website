@@ -32,15 +32,15 @@ Webmaster
 
 ### Jack Carroll
 
-A freshman computer science major who enjoys computers and software. Enjoys frisbee and hiking. 
+A freshman computer science major who enjoys computers and software. Addicted to frisbee and outdoor things. 
 
 
 Treasurer
 ---------
 
-### Parth
+### Parth Patel
 
-André is a sophomore CS major who, like his predecessor, is an AFROTC cadet hoping to become a cyber operations officer after graduation. His heaviest interests in computer science are network security and artificial intelligence.
+Third year computer science student with a love of machine learning. Hopes to pursue a career in AI and neural net development.
 
 
 Secretary
