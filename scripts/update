@@ -1,9 +1,0 @@
-#!/bin/sh
-# must be run on a lab machine
-git submodule update --init --recursive
-hugo
-find public -name '.git*' -exec rm -rf {} \;
-find public -type d -exec chmod 775 {} \;
-find public -type f -exec chmod 664 {} \;
-find public -exec chown "$USER":coes_acm {} \;
-rsync -av --delete public/* /web/group/acm/htdocs/
