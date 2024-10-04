@@ -1,23 +1,27 @@
 +++
-date = "2015-09-17T21:49:54-04:00"
+date = "2024-10-04"
 draft = false
 title = "Seminars"
-
 +++
 
 Seminars
 ========
 
-This semester, we have are sponsoring a new class CPSC 281 which will be the new home for the Clemson ACM seminars.  The topics list is still evolving so check back for updates. Checkout our [calendar][] for an up to date listing of when and where the next seminar will be.
+Checkout our [calendar][] for an up to date listing of when and where the next seminar will be.
 
 Current Seminars
 ----------------
 
-- Exploitable 3 [slides][exploitable_3-slides]
+| Date     | Presenter   | Topic               | Slides | Video |
+| -------- | ----------- | ------------------- | ------ | ----- |
+| 10/09/24 | Caden Allen | Arduino Programming |        |       |
+
+
 
 Previous Seminars
 -----------------
 
+- Exploitable 3 [slides][exploitable_3-slides]
 - Dockerize All the Things! [slides][docker-slides]
 - Exploitable: Ethical Hacking [slides][exploitable-slides] [video][exploitable-video]
 - Exploitable II: Application Design [slides][exploitable_2-slides] [video][exploitable_2-video] 
@@ -34,7 +38,7 @@ Suggestion for a Future Seminar
 
 We are always taking suggestions, so send us an email at <acm@cs.clemson.edu>.
 
-[calendar]: https://www.google.com/calendar/embed?src=aeh6j0eubfdc3atqq44g7iigu8%40group.calendar.google.com&ctz=America/New_York
+[calendar]: https://calendar.google.com/calendar/embed?src=c_bc37f354a5defb6a544dc6f3a2e0e969eca54216a55d0439af65d8164e47b5d5%40group.calendar.google.com&ctz=America%2FNew_York
 
 [linux-slides]: http://www.cs.clemson.edu/acm/presentations/?linux
 [linux-video]: https://www.youtube.com/watch?v=qI8eAlteW9E

@@ -3,7 +3,6 @@ ACM Website
 
 Right now this is only a mockup and a partial implementation. The idea is a website that looks (and interacts if you have JavaScript!) like an emacs session.
 
-
 Building
 --------
 
@@ -40,4 +39,4 @@ Design Goals
 Inquiries
 ---------
 
-Direct suggestions, comments, inquiries, hate-mail to [fmclane@clemson.edu](mailto:fmclane@clemson.edu).
+Direct suggestions, comments, inquiries, hate-mail to [acm@cs.clemson.edu](mailto:acm@cs.clemson.edu).
