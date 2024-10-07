@@ -15,7 +15,7 @@ President
 
 ### [Ell Torek](https://in-my-ellement.github.io/)
 
-Ell is a sophomore in math and computer science from Charleston, SC. They're interested in theoretical computer science, programming languages, and formal verification. 
+Ell is a sophomore in math and computer science from Charleston, SC. They're interested in theoretical computer science, programming languages, and formal verification. They represent Clemson in ICPC and the Putnam competition. Out of class, they're interested in conlangs and reading.
 
 
 Vice President
@@ -23,7 +23,7 @@ Vice President
 
 ### [Caden Allen](https://www.linkedin.com/in/caden-allen-058b07287/)
 
-Caden is a computer science major with a Spanish minor who enjoys the three things every nerd loves: gaming, programming, and reading. He is a member of NSBE, Clemson Cyber, and Clemson's CCDC team. He is active in embedded systems research and plans to pursue a PhD. 
+Caden is a computer science major with a Spanish minor who is a resident gym-goer and enjoys the three things every nerd loves: gaming, programming, and reading. He is a member of NSBE, Clemson Cyber, and Clemson's CCDC team. He is active in embedded systems research and plans to pursue a PhD. 
 
 
 Treasurer
@@ -31,7 +31,7 @@ Treasurer
 
 ### Christina Foley
 
-Christina is a sophomore computer science major from Greenville, SC. She's interested in data analysis and cryptography. In her spare time, she likes playing voleyball and making modded sudoku puzzles. On campus, she is involved with College Loops and CUhackit.
+Christina is a sophomore computer science major from Greenville, SC. She's interested in data analysis and cryptography. In her spare time, she likes playing volleyball and making modded sudoku puzzles. On campus, she is involved with College Loops and CUhackit.
 
 
 Secretary
@@ -45,9 +45,9 @@ Ryon is a sophomore math and computer major from Lexington, SC. Whenever he's lu
 Communications Chair
 --------------------
 
-### Kate Fullero
+### [Kate Fullero](https://github.com/kfullero)
 
-Kate is a senior computer science major
+Kate is a computer science major with a minor in artificial intelligence from Charleston, SC. She is passionate about making technology inclusive and accessible, with a focus on applying it to non-STEM fields. In her free time, she enjoys playing violin and working out. She is involved in College Loops, SWE, and Clemson Symphony Orchestra.
 
 
 Advisor
@@ -55,4 +55,4 @@ Advisor
 
 ### Mr. Dan Wooster
 
-Our fearless advisor. He is a Professor of Practice in the School of Computing and loves connecting students with industry. He first joined the Clemson faculty in 1985-1989 and returned in 2022 with experience in both industry and academia. His passion for fostering industry connections makes him an invaluable resource for the chapter.
+Our awesome advisor. He is a Professor of Practice in the School of Computing and loves connecting students with industry. He first joined the Clemson faculty in 1985-1989 and returned in 2022 with experience in both industry and academia. His passion for fostering industry connections makes him an invaluable resource for the chapter.
