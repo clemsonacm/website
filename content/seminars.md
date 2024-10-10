@@ -12,11 +12,7 @@ Checkout our [calendar][] for an up to date listing of when and where the next s
 Current Seminars
 ----------------
 
-| Date     | Presenter   | Topic               | Slides | Video |
-| -------- | ----------- | ------------------- | ------ | ----- |
-| 10/09/24 | Caden Allen | Arduino Programming |        |       |
-
-
+ - 10/09/24: Caden Allen on Arduino Programming. [slides][arduino-slides]
 
 Previous Seminars
 -----------------
@@ -39,6 +35,8 @@ Suggestion for a Future Seminar
 We are always taking suggestions, so send us an email at <acm@cs.clemson.edu>.
 
 [calendar]: https://calendar.google.com/calendar/embed?src=c_bc37f354a5defb6a544dc6f3a2e0e969eca54216a55d0439af65d8164e47b5d5%40group.calendar.google.com&ctz=America%2FNew_York
+
+[arduino-slides]: http://cs.clemson.edu/acm/10-9-24-arduino.pdf
 
 [linux-slides]: http://www.cs.clemson.edu/acm/presentations/?linux
 [linux-video]: https://www.youtube.com/watch?v=qI8eAlteW9E
