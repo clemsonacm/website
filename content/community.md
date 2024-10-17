@@ -1,23 +1,41 @@
 +++
-date = "2015-09-17T21:49:54-04:00"
+date = "2024-10-04"
 draft = false
 title = "Community Events"
-
 +++
 
 Community Events
 ================
 
-We strive to offer events that build community amongst computer scientists here at Clemson. To this end we host 3 LAN parties and 1 cookie break each semester. For dates for these events, check out our [calendar][].
+We strive to offer events that build community amongst computer scientists here at Clemson. To this end we host several community building events each semester. For dates for these events, check out our [calendar][].
 
-LAN Parties
------------
+We also attend [Tiger Prowl][] and the CECAS Student Involvement Fair annually.
 
-At our LAN parties, we have all sorts of PC games including Team Fortress and Rocket League. In addition to PC games, we also have several versions of Smash Brothers including Melee, Project M, and Smash 4. At our LAN party events, we provide snacks and drinks; but we ask that attendees chip in $5 for pizza.
 
-Cookie Break
-------------
+Special Topics
+--------------
 
-For members of Clemson ACM, we offer generally offer 1 cookie break each semester. As expected, we have a selection of cookies and milk. These events are a chance to take a break from compiling, debugging, and studying and play games with other human beings. We often have a small selection of board and card games to accompany our cookies and milk. We also use this event as a chance to send off our programming teams before competitions.
+About once a month, we hold a special topics meeting where we have an undergraduate or graduate student speak. This provides a low-pressure environment for students to share their research, their projects, or topics they find interesting that may not be covered in our classes.
 
-[calendar]: https://www.google.com/calendar/embed?src=aeh6j0eubfdc3atqq44g7iigu8%40group.calendar.google.com&ctz=America/New_York
+
+Guest Speakers
+--------------
+
+About once a month, we have a guest speaker come and present to us about a topic of their choice. Our speakers are industry professionals, academics, and anyone else with interesting experience in computing they want to share.
+
+If you think you fit that description and you're interested in giving a talk, email us at <acm@cs.clemson.edu>.
+
+
+Project Showcases
+-----------------
+
+Once per semester, we hold project showcases where we invite our members to demonstrate what they've been working on recently. This is a great way to receive constructive feedback and to find others who are interested in collaborating.
+
+
+Social Events
+-------------
+
+To fill the gaps between our other events, we often hold community-building events to provide a place to chill and meet other members. This is a great way to engage with the computing community at Clemson with less formality and decide if our organization is the place for you.
+
+[calendar]: https://calendar.google.com/calendar/embed?src=c_bc37f354a5defb6a544dc6f3a2e0e969eca54216a55d0439af65d8164e47b5d5%40group.calendar.google.com&ctz=America%2FNew_York
+[Tiger Prowl]: https://www.clemson.edu/studentaffairs/get-involved/csle/current-students/student-organizations/tiger-prowl.html
