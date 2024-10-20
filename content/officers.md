@@ -39,7 +39,7 @@ Secretary
 
 ### [Ryon Peddapalli](https://quantiset.github.io/)
 
-Ryon is a sophomore math and computer major from Lexington, SC. Whenever he's lucky enough to get free time, he enjoys working on video games. On campus, he is involved with Clemson's quizbowl team and the fencing club.
+Ryon is a sophomore math and computer science major from Lexington, SC. Whenever he's lucky enough to get free time, he enjoys working on video games. On campus, he is involved with Clemson's quizbowl team and the fencing club.
 
 
 Communications Chair
