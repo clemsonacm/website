@@ -25,17 +25,48 @@ Previous Executive Boards
 
 We maintain a list of past executive boards and what they've gone on to do in their careers. If you're someone who should be listed here and want to give us an update on what you're doing now, send an email to <acm@cs.clemson.edu>.
 
-1963-1964
+Fall 1963, Spring 1964
 - President: Masell L. Coleman, Jr.
 
-1964-1965
+Fall 1964, Spring 1965
 - President: Bob Jorger
 - Vice President: David Brown
 - Secretary: Mary Trout
 - Treasurer: Dick Welch
 - Reporter: Tommy Littlejohn
 
-2018-2019:
+Fall 2012, Spring 2013
+- President: Austin Anderson
+- Vice President: Yanxiang Wu
+- Treasurer: Chris Abel
+- Webmaster: Jed Grant
+- Advisor: Brian Dean
+
+Fall 2015, Spring 2016
+- President: Marshall Clyburn
+- Vice President: Robert Underwood
+- Secretary: Cecilia Prentice
+- Treasurer: Alexander Sferrella
+- Webmaster: Lily Foster
+- Advisor: Brian Dean
+
+Fall 2016, Spring 2017
+- President: Maxwell Harley
+- Vice President: Derek Parill
+- Secretary: Samuel Bowen
+- Treasurer: André Robinson
+- Webmaster: Sloan Nietert
+- Advisor: Brian Dean
+
+Fall 2017, Spring 2018
+- President: Maxwell Harley
+- Vice President: Derek Parill
+- Secretary: Garrett Springer 
+- Treasurer: André Robinson
+- Webmaster: Sloan Nietert
+- Advisor: Brian Dean
+
+Fall 2018, Spring 2019
 - President: André Robinson
 - Vice President: Derek Parill
 - Secretary: Garrett Springer
@@ -43,7 +74,7 @@ We maintain a list of past executive boards and what they've gone on to do in th
 - Webmaster: Jack Carroll
 - Advisor: Brian Dean
 
-2023-2024
+Fall 2023, Spring 2024
 - President: Henry Miles
 - Secretary: Alfred Lee
 - Treasurer: Chloe Crozier
