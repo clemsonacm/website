@@ -13,9 +13,10 @@ We have a fine core of officers here at Clemson ACM. We organize things and keep
 President
 ---------
 
-### [Ell Torek](https://in-my-ellement.github.io/)
+### [Hazel Torek](https://in-my-ellement.github.io/)
 
-Ell is a sophomore in math and computer science from Charleston, SC. They're interested in theoretical computer science, programming languages, and formal verification. They represent Clemson in ICPC and the Putnam competition. Out of class, they're interested in conlangs and reading.
+Hazel is a sophomore in math and computer science from Charleston, SC. They're interested in programming languages and formal verification. They represent Clemson in ICPC and the William Lowell Putnam Mathematical Competition and are an
+organizer for CUhackit, the vice president of Clemson's oSTEM chapter, and a member of Quantum Club.
 
 
 Vice President
@@ -49,6 +50,13 @@ Communications Chair
 
 Kate is a computer science major with a minor in artificial intelligence from Charleston, SC. She is passionate about making technology inclusive and accessible, with a focus on applying it to non-STEM fields. In her free time, she enjoys playing violin and working out. She is involved in College Loops, SWE, and Clemson Symphony Orchestra.
 
+
+Forge Committee Chair
+---------------------
+
+### [Uzayr Syed](https://uzayr.dev/)
+
+Uzayr is a sophomore computer science major with a minor in finance from Greenville, SC. He's interested in human centered computing, artificial intelligence, and entrepreneurship with the hopes of using all three fields to help better humanity. During his free time, Uzayr enjoys going to the gym, spending time with friends, fishing, and hiking. He currently leads Forge, a CS fellowship program that is a part of our ACM chapter, and also holds leadership in the Muslim Student Association, Clemson Fintech, and Clemson Build.
 
 Advisor
 -------
