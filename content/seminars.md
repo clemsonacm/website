@@ -12,7 +12,10 @@ Checkout our [calendar][] for an up to date listing of when and where the next s
 Current Seminars
 ----------------
 
- - 10/09/24: Caden Allen on Arduino Programming. [slides][arduino-slides]
+- 02/26/25: Christina Foley on hackathon brainstorming.
+- 02/12/25: Caden Allen on building a portfolio website. 
+- 01/29/25: Ryon Peddapalli on game development in Godot.
+- 10/09/24: Caden Allen on Arduino programming. [slides][arduino-slides]
 
 Previous Seminars
 -----------------

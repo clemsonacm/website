@@ -1,5 +1,5 @@
 +++
-date = "2024-10-04"
+date = "2025-09-12"
 draft = false
 title = "Officers"
 +++
@@ -13,10 +13,9 @@ We have a fine core of officers here at Clemson ACM. We organize things and keep
 President
 ---------
 
-### [Hazel Torek](https://in-my-ellement.github.io/)
+### [Hazel Torek](https://hazeltorek.github.io/)
 
-Hazel is a sophomore in math and computer science from Charleston, SC. They're interested in programming languages and formal verification. They represent Clemson in ICPC and the William Lowell Putnam Mathematical Competition and are an
-organizer for CUhackit, the vice president of Clemson's oSTEM chapter, and a member of Quantum Club.
+Hazel is a junior in math and computer science from Charleston, SC. She's interested in programming languages and formal verification. She's also the co-director of [CUhackit](https://cuhack.it/#/), Clemson's annual hackathon, and the vice president of Clemson's oSTEM chapter.
 
 
 Vice President
@@ -30,10 +29,9 @@ Caden is a computer science major with a Spanish minor who is a resident gym-goe
 Treasurer
 ---------
 
-### Christina Foley
+### [Brady Setser](https://www.linkedin.com/in/bradythebest27/)
 
-Christina is a sophomore computer science major from Greenville, SC. She's interested in data analysis and cryptography. In her spare time, she likes playing volleyball and making modded sudoku puzzles. On campus, she is involved with College Loops and CUhackit.
-
+Brady is a junior computer science major with a minor in artificial intelligence from South Carolina. Whenever he finds free time, he enjoys solving programming puzzles, working on side projects, and playing mellophone in Tiger Band. On campus, he is involved with the Clemson Competitive Programming Team.
 
 Secretary
 ---------
